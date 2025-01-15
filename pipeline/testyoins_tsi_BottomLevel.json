@@ -452,7 +452,7 @@
 			"name": "testyoins_tsi_20231222"
 		},
 		"annotations": [],
-		"lastPublishTime": "2023-12-22T07:21:55Z"
+		"lastPublishTime": "2023-12-22T09:02:27Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
